@@ -17,6 +17,8 @@ GBDev Website: [https://gbdev.io/](https://gbdev.io/)
 
 GBDev Resources: [https://gbdev.io/list.html](https://gbdev.io/list.html)
 
+Collection of free Game Boy homebrew games: [https://hh.gbdev.io](https://hh.gbdev.io)
+
 InsideGadgets Discord: [http://discord.gg/X2wS8eh](http://discord.gg/X2wS8eh)
 
 List of information on Game Boy carts: [https://github.com/gbdev/awesome-gbdev/blob/master/CartridgeList.csv](https://github.com/gbdev/awesome-gbdev/blob/master/CartridgeList.csv)
